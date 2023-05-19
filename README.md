@@ -21,9 +21,8 @@
 
 I'm a Software Engineer from Switzerland.
 
-- I'm getting a code error 404 on my job, therefore I'm trying to resolve the bug finding my first job as a software engineer.
-- In my free time I learn new tools and try out new software pattern. Currently, I'm expanding my knowledge on Microservices using
-Spring Boot and Kafka. [Check out my project!](https://github.com/ominil/ada)
+- I'm currently working @Centro Sistemi Informativi ehnancing and maintaining Java application.
+- In my free time I learn new tools and try out new software pattern. Currently, I'm expanding my knowledge to understand better DEVOPS and microservices
 
 ---
 
